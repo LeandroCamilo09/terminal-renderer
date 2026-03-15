@@ -19,10 +19,11 @@ O projeto carrega modelos `.obj`, mostra informações do modelo e renderiza a m
 - Suporte para carregar **modelos externos**
 - Integração com motor de renderização no terminal
 
-![demo](img/man.gif)
-![demo](img/monkey.gif)
+![demo1](img/man.gif)
+![demo2](img/monkey.gif)
 
 ## Controles
+![demo3](img/menu.png)
 
 selecionar e mover para frente ou para trás: ` W | S` ou `↑ ↓`
 
